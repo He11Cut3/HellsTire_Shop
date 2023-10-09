@@ -10,7 +10,7 @@
 Store with:
 * Admin panel;
 * Adding, changing, deleting information;
-* Сatalog with categories
+* Сatalog with categories;
 * Shopping cart.
 
 ## Developers
